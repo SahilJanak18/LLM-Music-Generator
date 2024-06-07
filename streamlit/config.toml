@@ -1,0 +1,4 @@
+[server]
+headless=true
+port=8051
+enableCORS=false
